@@ -1,4 +1,4 @@
 import 'jquery';
-import 'bootstrap'
+import '../scss/custom.scss';
 
 console.log("Bienvenue dans WebPack!");
